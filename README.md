@@ -2,10 +2,6 @@
 
 Object mapper framework for .net
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ## DB Provider
 We are working with Sql Server 2014+ but we want to add support for diferent providers as well. The framework was build with that in mind so it will happen!
 
